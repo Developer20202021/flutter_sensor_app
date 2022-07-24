@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389433174434",
+    "project_id": "flutterappsabrina",
+    "storage_bucket": "flutterappsabrina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389433174434:android:560b89b81597894337eafb",
+        "android_client_info": {
+          "package_name": "com.example.my_sensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389433174434-811o209rrptf878ddpom25gmntgf771r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpE7CCcxnHlyD4dd7gu5Y8BEH_DR6XJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389433174434-811o209rrptf878ddpom25gmntgf771r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
